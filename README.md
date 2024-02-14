@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aguiarth, lawyer and Computer Science student
+- 👋 Hi, I’m Thaís, lawyer and Computer Science student
 - 👀 I’m interested in Data for Good and using technologies for social impact
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects that empower communities through data
