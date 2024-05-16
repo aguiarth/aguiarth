@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thaís, lawyer and Computer Science student
 - 👀 I’m interested in Data for Good and using technologies for social impact
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning Python and C
 - ⚡ Fun fact: I practice Krav Maga, so I'm trained to defend against bugs – both in code and in combat! 🥋
